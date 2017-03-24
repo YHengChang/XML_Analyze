@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\HengChang\Desktop\解析XML\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\HengChang\Desktop\解析XML\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\HengChang\Desktop\解析XML\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\HengChang\Desktop\解析XML\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\HengChang\Desktop\解析XML\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\HengChang\Desktop\解析XML\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\github\XML\解析XML\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\github\XML\解析XML\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\github\XML\解析XML\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
